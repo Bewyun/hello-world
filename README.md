@@ -1,2 +1,2 @@
 # hello-world
-Test
+this is a test, to learn more about git.
